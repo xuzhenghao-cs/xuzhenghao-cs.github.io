@@ -1,0 +1,29 @@
+# jemdoc: menu{MENU}{research.html}
+# jemdoc: notime
+==Research
+
+== Exact Worst-Case Performance of Bregman Methods
+We study the performance estimation problem (PEP) to analyze convergence rate of 
+different Bregman methods with different assumptions in a unified manner. 
+\n
+The methods we analyzed include: Bregman Proximal Gradient method, Bregman Proximal Point method, 
+Bregman Subgradient method, Bregman Halpern's iteration.
+\n
+The assumptions on objectives (with distance generating kernel) include: 
+relatively smooth, relatively strongly convex, smooth adaptable.
+\n
+In some of the cases we recover the results already shown in previous literatures. 
+These include: BPG method in relatively smooth condition or relatively strongly convex condition, 
+BPP method, Halpern's iteration.
+\n
+In some other cases, we use this PEP approach and get new convergence result.
+These include: BPG method in smooth adaptable condition
+\n
+In rest of the cases, the corresponding PEP has no bounded solution, which suggests 
+that more assumptions might be required to derive valid convergence bound. These include: 
+Bregman Halpern's iteration.
+
+== Performance Estimation Problem for Adaptive Methods
+In previous literatures the PEP formulation requires step size fixed. We want to extend 
+it to be compatible with some kinds of adaptive step size.
+\n

@@ -1,12 +1,13 @@
 # jemdoc: menu{MENU}{index.html}
+# jemdoc: notime
 ==Zhenghao Xu
 
 ~~~
 {}{img_left}{images/bio.jpg}{alt text}{160}{160}
-B.S. Student (fourth year)\n [http://www.en.cs.zju.edu.cn/ College of Computer Science and Technology],\n [http://ckc.zju.edu.cn/ckcen/main.htm Chu Kochen Honors College (CKC)],\n [https://www.zju.edu.cn/english/ Zhejiang University (ZJU)]\n
+B.S. Student (fourth year)\n [http://www.en.cs.zju.edu.cn/ College of Computer Science and Technology], [http://ckc.zju.edu.cn/ckcen/main.htm Chu Kochen Honors College],\n [https://www.zju.edu.cn/english/ Zhejiang University]\n
 \n
-Phone: \+86 159 2729 5438 \n
-E-post: /3180106206/ \[@\] zju \[DOT\] edu \[DOT\] cn
+Phone: +86 159 2729 5438 \n
+E-mail: 3180106206 \[@\] zju \[DOT\] edu \[DOT\] cn
 ~~~
 
 == About
@@ -15,13 +16,8 @@ I am a fourth year B.S. student at Zhejiang University. I major in Computer Scie
 == Research Interests
 My research interests include 
 - Optimization 
--- Unified worst case performance analysis framework of first-order methods for machine learning problems with varied settings (large scale, distributed, non-Euclidean, etc.).
 - Machine Learning and Deep Learning Theory
 - Data Science\n
-
-== Works In Progress 
-. Performance estimation problem of Bregman methods.
-\n
 
 == CV
 [CV-1110.pdf A brief cv].
