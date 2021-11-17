@@ -22,6 +22,16 @@ These include: BPG method in smooth adaptable condition
 In rest of the cases, the corresponding PEP has no bounded solution, which suggests 
 that more assumptions might be required to derive valid convergence bound. These include: 
 Bregman Halpern's iteration.
+\n
+\n
+See: [slides/BPG_PEP_proof.pdf BPG proof], [slides/BPPSG_proof.pdf BPPSG proof], [slides/PEP_Intro.pdf Introduction to PEP], 
+[slides/20211031.pdf 10.31], [slides/20211024.pdf 10.24], 
+[slides/20211017.pdf 10.17], [slides/20211010.pdf 10.10], 
+[slides/20210926.pdf 9.26], [slides/20210912.pdf 9.12], 
+[slides/20210905.pdf 9.5], [slides/20210829.pdf 8.29], 
+[slides/20210822.pdf 8.22], [slides/20210818.pdf 8.18],
+[slides/20210808.pdf 8.8], [slides/20210801.pdf 8.1],
+[slides/20210718.pdf 7.18], [slides/20210711.pdf 7.11].
 
 == Performance Estimation Problem for Adaptive Methods
 In previous literatures the PEP formulation requires step size fixed. We want to extend 
